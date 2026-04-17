@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTRI XIST Verify"
+  short_description: "Run the local HTRI Xist sample case"
+  default_prompt: "Use $htri-xist-verify to connect to an already open HTRI Xchanger Suite window, open the Xist sample, run it, and confirm the result."
